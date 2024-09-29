@@ -11,4 +11,8 @@ Class used is AP , LC , LOO , LH (adjust the legendary hero variable if you are 
 
 P1 : Healer + Ravenous + Vainglory + Wiz
 P2 : Healer + Ravenous + Vainglory + Wiz
-P3 : LOO 
+P3 : LOO + Awe Blast + Vainglory + Luck
+P4 : LC + Praxis + Vainglory + Wiz
+P5 : AP + Arcana + Vainglory + Luk
+P6 : LH (or DLH) + Ravenous + Vainglory + Wiz
+P7 : QCM + Ravenous + Vainglory + Wiz
