@@ -1155,6 +1155,19 @@
         "$type": "Grimoire.Botting.Commands.Misc.CmdLabel, Grimoire",
         "Name": "ATTACKASEMP3"
       },
+	  {
+        "$type": "Grimoire.Botting.Commands.Misc.Statements.CmdPlayerAuraGreaterThan, Grimoire",
+        "Tag": "Aura",
+        "Text": "Player aura value greater than",
+        "Value1": "Contrarium",
+        "Value2": "0"
+      },
+      {
+        "$type": "Grimoire.Botting.Commands.Misc.CmdIndex, Grimoire",
+        "Type": 1,
+        "Index": 3,
+        "IndexString": ""
+      },
       {
         "$type": "Grimoire.Botting.Commands.Misc.Statements.CmdTargetAuraGreaterThan, Grimoire",
         "Tag": "Aura",
@@ -1208,6 +1221,19 @@
       {
         "$type": "Grimoire.Botting.Commands.Misc.CmdLabel, Grimoire",
         "Name": "ATTACKASEMP4"
+      },
+	  {
+        "$type": "Grimoire.Botting.Commands.Misc.Statements.CmdPlayerAuraGreaterThan, Grimoire",
+        "Tag": "Aura",
+        "Text": "Player aura value greater than",
+        "Value1": "Contrarium",
+        "Value2": "0"
+      },
+      {
+        "$type": "Grimoire.Botting.Commands.Misc.CmdIndex, Grimoire",
+        "Type": 1,
+        "Index": 3,
+        "IndexString": ""
       },
       {
         "$type": "Grimoire.Botting.Commands.Misc.Statements.CmdTargetAuraGreaterThan, Grimoire",
@@ -1263,6 +1289,19 @@
       {
         "$type": "Grimoire.Botting.Commands.Misc.CmdLabel, Grimoire",
         "Name": "ATTACKASEMP5"
+      },
+	  {
+        "$type": "Grimoire.Botting.Commands.Misc.Statements.CmdPlayerAuraGreaterThan, Grimoire",
+        "Tag": "Aura",
+        "Text": "Player aura value greater than",
+        "Value1": "Contrarium",
+        "Value2": "0"
+      },
+      {
+        "$type": "Grimoire.Botting.Commands.Misc.CmdIndex, Grimoire",
+        "Type": 1,
+        "Index": 3,
+        "IndexString": ""
       },
       {
         "$type": "Grimoire.Botting.Commands.Misc.Statements.CmdTargetAuraGreaterThan, Grimoire",
